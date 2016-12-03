@@ -158,7 +158,8 @@ addImgSuccess : function(img_path, data) {
 },
 ```
 
-页面原型：![img](./images/posts/前端/history1.png)
+页面原型：
+![页面原型](/images/posts/前端/history-demo.png)
 
 ## 三，问题分析
 
