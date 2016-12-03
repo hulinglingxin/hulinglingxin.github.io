@@ -1,4 +1,4 @@
-# 小疯子日志
+# 疯格
 
 我的个人博客：<http://hulinglingxin.github.org>，欢迎 Star 和 Fork。
 
