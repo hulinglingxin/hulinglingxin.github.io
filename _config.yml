@@ -93,10 +93,10 @@ twitter_username: hulinglingxin
 #      Comments    #
 # ---------------- #
 # support provider: disqus, duoshuo
-comments_provider: disqus
+comments_provider: duoshuo
 # !!!重要!!! 请修改下面两个用户名为你自己申请的
 # !!!Important!!! Please modify usernames below to yours
-duoshuo_username: mazhuang
+duoshuo_username: 玲玲
 disqus_username: mzlogin
 # 在使用 disqus 的时候可点击显示多说评论框
 lazy_load_duoshuo: true
@@ -110,6 +110,5 @@ google:
 # ---------------- #
 #      Datas       #
 # ---------------- #
-skill_software_keywords: [php, C++, Python, Design Patterns]
-skill_mobile_app_keywords: [Android, Reverse Engineering]
-skill_windows_keywords: [Win32 SDK, DuiLib, WTL, COM, WinDbg]
+skill_software_keywords: [php, mysql, Python, redis, mc, web]
+skill_mobile_app_keywords: [Android, ios]
