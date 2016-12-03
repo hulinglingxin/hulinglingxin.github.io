@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://mazhuang.org
+url: http://hulinglingxin.github.org
 date_format: "ordinal"
-title: 码志
-subtitle: "打码改变人生"
-description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+title: 小疯子日志
+subtitle: "小疯子的日志"
+description: "玲玲的个人博客"
+keywords: 小疯子, lingling hu, hulingling, crazy
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
@@ -16,9 +16,9 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
-organization: Sogou, Inc.
-organization_url: https://www.sogou.com
+author: lingling hu
+organization: Sina, Inc.
+organization_url: http://weibo.com
 location: Beijing, China
 email: chumpma@gmail.com
 
@@ -77,26 +77,26 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mzlogin/mzlogin.github.io
+repository: hulinglingxin/hulinglingxin.github.io
 
 # ---------------- #
 #      Socials     #
 # ---------------- #
-github_username: mzlogin
-douban_username: freedim
-facebook_username: mzlogin
-weibo_username: mzlogin
-zhihu_username: mzlogin
-twitter_username: mzlogin
+github_username: hulinglingxin
+douban_username: hulinglingxin
+facebook_username: hulinglingxin
+weibo_username: hulinglingxin
+zhihu_username: hulinglingxin
+twitter_username: hulinglingxin
 
 # ---------------- #
 #      Comments    #
 # ---------------- #
 # support provider: disqus, duoshuo
-comments_provider: disqus
+comments_provider: duoshuo
 # !!!重要!!! 请修改下面两个用户名为你自己申请的
 # !!!Important!!! Please modify usernames below to yours
-duoshuo_username: mazhuang
+duoshuo_username: 玲玲
 disqus_username: mzlogin
 # 在使用 disqus 的时候可点击显示多说评论框
 lazy_load_duoshuo: true
@@ -110,6 +110,6 @@ google:
 # ---------------- #
 #      Datas       #
 # ---------------- #
-skill_software_keywords: [Java, C++, Python, Design Patterns]
+skill_software_keywords: [php, C++, Python, Design Patterns]
 skill_mobile_app_keywords: [Android, Reverse Engineering]
 skill_windows_keywords: [Win32 SDK, DuiLib, WTL, COM, WinDbg]
