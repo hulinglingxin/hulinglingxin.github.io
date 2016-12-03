@@ -17,7 +17,7 @@
 
 **[在线预览 &rarr;](http://hulinglingxin.github.org)**
 
-![screenshot home](http://mazhuang.org/assets/images/screenshots/home.png)
+![screenshot home](/images/posts/book/jieyouzahuodian1.jpg)
 
 ## Fork 指南
 
